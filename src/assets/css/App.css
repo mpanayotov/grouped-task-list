@@ -1,0 +1,8 @@
+.img-selector {
+  width: 25px;
+  height: 25px;
+}
+
+.list-group-item, .all-groups {
+  cursor: pointer;
+}
