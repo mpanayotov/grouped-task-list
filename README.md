@@ -1,4 +1,9 @@
 # README
 
-npm install
-npm start
+Install node modules:
+
+    npm install
+
+Run application:
+
+    npm start
